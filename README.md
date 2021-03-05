@@ -1,3 +1,4 @@
+![](dark-mode.gif)
 ## Usage
 ```
 import DarkModeToggler from './DarkModeToggler'
